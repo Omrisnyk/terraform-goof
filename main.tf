@@ -1,9 +1,9 @@
 terraform {
   cloud {
-    organization = "partner-snyk"
+    organization = "omri"
 
     workspaces {
-      name = "terraform-goof-CLI"
+      name = "terraform-goof"
     }
   }
 
